@@ -3,7 +3,8 @@
 ## About me:
 
 - Pronouns: she/her
-- Informatics Major at UW iSchool
+- Informatics Major
+- Client Side Web Development Teaching Assistant at UW iSchool
 - Reach me: https://www.linkedin.com/in/katiejhsu/
 
 ## Education:
