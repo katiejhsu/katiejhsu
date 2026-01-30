@@ -54,9 +54,13 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 ### Husky Maps: Second Place Hackathon Project
 - An award-winning navigation API that utilizes a modified Dijkstra's algorithm to calculate optimal campus paths based on real-time building access.
   
-[Git Repo](https://devpost.com/software/husky-maps)
+[Hackathon Page](https://devpost.com/software/husky-maps)
 
+### Analyzing Social and Demographic Influences on Income
 
+- An end-to-end statistical analysis and machine learning project that utilizes multiple linear regression in R to quantify how socioeconomic and demographic factors influence income inequality.
+
+[Git Repo]([https://devpost.com/software/husky-maps](https://github.com/katiejhsu/Analyzing-Social-and-Demographic-Influences-on-Income))
 <!--
 **katiejhsu/katiejhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
