@@ -60,7 +60,7 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 
 - An end-to-end statistical analysis and machine learning project that utilizes multiple linear regression in R to quantify how socioeconomic and demographic factors influence income inequality.
 
-[Git Repo]([https://devpost.com/software/husky-maps](https://github.com/katiejhsu/Analyzing-Social-and-Demographic-Influences-on-Income))
+[Git Repo](https://github.com/katiejhsu/Analyzing-Social-and-Demographic-Influences-on-Income)
 <!--
 **katiejhsu/katiejhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
