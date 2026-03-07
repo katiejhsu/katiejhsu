@@ -61,6 +61,10 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 - An end-to-end statistical analysis and machine learning project that utilizes multiple linear regression in R to quantify how socioeconomic and demographic factors influence income inequality.
 
 [Git Repo](https://github.com/katiejhsu/Analyzing-Social-and-Demographic-Influences-on-Income)
+
+- An interactive Power BI dashboard built on the same dataset, featuring automated ETL pipelines, custom demographic groupings, and dynamic slicers to explore the intersection of gender, education, and income.
+
+[Git Repo](https://github.com/katiejhsu/PowerBI-Dashboard-Analyzing-Sociodemographic-Influences-on-Income-.git)
 <!--
 **katiejhsu/katiejhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
