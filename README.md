@@ -56,7 +56,7 @@ Writing, DBMS, Git, Power BI, Azure DevOps
   
 [Hackathon Page](https://devpost.com/software/husky-maps)
 
-### Analyzing Social and Demographic Influences on Income
+### Analyzing Social and Demographic Influences on Income: R and Power BI
 
 - An end-to-end statistical analysis and machine learning project that utilizes multiple linear regression in R to quantify how socioeconomic and demographic factors influence income inequality.
 
