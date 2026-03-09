@@ -19,7 +19,7 @@
 - Java, SQL, Python, R, HTML, CSS, JavaScript, Swift
   
 ### Libraries & Frameworks:
-- Firebase, React, Node.js, pandas, scikit-learn, matplotlib
+- Firebase, React, Node.js, pandas, plotly, scikit-learn, matplotlib
   
 ### Tools & Methodologies:
 - Relational Data Modeling, Data Analysis, Data Cleaning, Data Visualization, Query
