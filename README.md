@@ -69,6 +69,16 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 - An interactive Power BI dashboard built on the same dataset, featuring automated ETL pipelines, custom demographic groupings, and dynamic slicers to explore the intersection of gender, education, and income.
 
 [Git Repo](https://github.com/katiejhsu/PowerBI-Dashboard-Analyzing-Sociodemographic-Influences-on-Income-.git)
+
+## Personal Project Sites
+- A list of my family's top 30 WA hikes, from someone who was born and raised in the PNW and has been hiking since I was 10. Features include an interactive map, custom filters, and detailed stats (mileage, elevation, and difficulty) along with my personal hike times.
+  
+[Deployed Site](https://hsuhikearchive.web.app/)
+
+- A personal web application developed to help my mother organize and analyze her purchase history and savings. The platform features a real-time Firebase database for data persistence and supports CSV uploads for seamless, efficient updates.
+
+[Deployed Site](https://reipurchases.web.app/)
+  
 <!--
 **katiejhsu/katiejhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
