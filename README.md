@@ -70,6 +70,12 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 
 [Git Repo](https://github.com/katiejhsu/PowerBI-Dashboard-Analyzing-Sociodemographic-Influences-on-Income-.git)
 
+### Trail Stability Prediction Pipeline
+
+- An python machine learning pipeline that uses Random Forest to predict trail shoe stability by analyzing quantitative biomechanical data with qualitative runner feedback to identify key performance drivers like elevation gain and athlete confidence.
+
+[Git Repo]((https://github.com/katiejhsu/Trail-Stability-Prediction-Pipeline)
+
 ## Personal Project Sites
 - A list of my family's top 30 WA hikes, from someone who was born and raised in the PNW and has been hiking since I was 10. Features include an interactive map, custom filters, and detailed stats (mileage, elevation, and difficulty) along with my personal hike times.
   
