@@ -9,7 +9,7 @@ https://katiehsusite.web.app/
 - Pronouns: she/her
 - Informatics Major
 - Client Side Web Development Teaching Assistant at UW iSchool
-- Reach me: https://www.linkedin.com/in/katiejhsu/
+- Reach me: katiejhsu@gmail.com
 
 ## Education:
 
