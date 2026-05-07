@@ -38,6 +38,11 @@ Writing, DBMS, Git, Power BI, Azure DevOps
 
 [Deployed Project](https://final-project-group5-its0.onrender.com/)
 
+### Famtry iOS App: Swift
+- A SwiftUI iOS app for shared family pantry management, featuring a REST API backend, push notifications for expiring items, and collaborative tracking of pantry items with expiration dates across family groups.
+  
+[Git Repo](https://github.com/katiejhsu/Famtry.git)
+
 ### Analyzing Netflix: RShiny App
 - An interactive RShiny application featuring statistical analysis of genre trends and content performance using a consolidated dataset of 1,700+ entries.
   
