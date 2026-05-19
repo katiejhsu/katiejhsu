@@ -7,8 +7,10 @@ https://katiehsusite.web.app/
 ## About me:
 
 - Pronouns: she/her
-- Informatics Major
-- Client Side Web Development Teaching Assistant at UW iSchool
+- Informatics Major, Data Science Minor
+- Client Side Web Development Teaching Assistant @ UW iSchool
+- Technology Lead @ UW Women in Informatics (WINFO)
+- Student Web & Digital Content Assistant @ UWHR
 - Reach me: katiejhsu@gmail.com
 
 ## Education:
