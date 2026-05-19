@@ -8,9 +8,9 @@ https://katiehsusite.web.app/
 
 - Pronouns: she/her
 - Informatics Major, Data Science Minor
+- Student Web & Digital Content Assistant @ UWHR
 - Client Side Web Development Teaching Assistant @ UW iSchool
 - Technology Lead @ UW Women in Informatics (WINFO)
-- Student Web & Digital Content Assistant @ UWHR
 - Reach me: katiejhsu@gmail.com
 
 ## Education:
