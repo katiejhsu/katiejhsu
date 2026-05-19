@@ -22,7 +22,7 @@ https://katiehsusite.web.app/
 ## Skills:
 
 ### Programming Languages: 
-- Java, SQL, Python, R, HTML, CSS, JavaScript, Swift
+- Java, SQL, Python, R, PHP, HTML, CSS, JavaScript, Swift
   
 ### Libraries & Frameworks:
 - Firebase, React, Node.js, pandas, plotly, scikit-learn, matplotlib
